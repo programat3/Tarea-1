@@ -3,7 +3,7 @@ Tarea 1 de lenguajes de programación
 
 # Instrucciones
 
-Para ejecutar con un archivo
+Para ejecutar:
 `python3 tarea1.py test.pgn`
 
 Para revisar los distintos programas de prueba, seguir las instrucciones del código:
