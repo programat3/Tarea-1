@@ -1,5 +1,5 @@
 # Tarea-1
-Tarea 1 de lenguajes de programación
+Tarea 1 de lenguajes de programación, con el objetivo de manipular y modificar archivos del tipo .pgn con jugadas estructuradas de ajederéz.
 
 # Instrucciones
 
